@@ -21,4 +21,5 @@
   - This version of the script was originally made to replace the cpp execution instructions in code runner extenstion executor map json.
   which you can access by going to `File > Extenstions > code runner > settings > executor map ` and replace the value for the key `cpp` with ` runcw $fileNameWithoutExtenstion`.
   - You know, while normal people commit mistakes, devs commit buggy codes. So if you have an issue,just open a one:
-    [![Open Issues](https://img.shields.io/github/issues-open/w4rdr43w4n/cpp-shell-builder.svg)](https://github.com/w4rdr43w4n/cpp-shell-builder/issues)
+     [![Report Issue](https://img.shields.io/badge/Report%20Issue-black?style=for-the-badge&logo=github)](https://github.com/w4rdr43w4n/cpp-shell-builder/issues/new)
+
